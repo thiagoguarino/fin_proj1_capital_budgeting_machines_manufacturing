@@ -18,7 +18,7 @@
   
   2. enter the project's folder 
 
-   - `cd finance-project1-capital-budgeting.git`
+   - `cd finance-project1-capital-budgeting`
 
   3. create and open the project's virtual environment
 
