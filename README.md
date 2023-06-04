@@ -9,7 +9,7 @@
   
   For more details read the PDF with the tasks description.
 
-## HOW TO RUN THE APP
+## HOW TO RUN THE MODEL
 
 
   1. clone the repository
