@@ -1,9 +1,9 @@
-## Trybe Project 32 - Inventory Report
+## Project 1 - Capital Budgeting Model
 
 
 ## PROJECT OVERVIEW
 
-  This is project #1 of the Financial Modeling with Python and Excel from [Nick DeRobertis Youtube Course](https://nickderobertis.github.io/fin-model-course/).
+  This is project #1 of the Financial Modeling with Python and Excel Course from [Nick DeRobertis](https://nickderobertis.github.io/fin-model-course/).
 
   This project is a capital budgeting model for a ficticious phone manufacturer. it also has bonus tasks. For more details read the PDF with the tasks description.
 
