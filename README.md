@@ -9,6 +9,8 @@
   
   For more details read the PDF with the tasks description.
 
+  - **MADE BY [Thiago Guarino](https://www.linkedin.com/in/thiago-guarino/)**
+
 ## HOW TO RUN THE MODEL
 
 
