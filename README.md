@@ -3,13 +3,14 @@
 
 ## PROJECT OVERVIEW
 
+  **MADE BY [Thiago Guarino](https://www.linkedin.com/in/thiago-guarino/)**
+
   This is project #1 of the Financial Modeling with Python and Excel Course from [Nick DeRobertis](https://nickderobertis.github.io/fin-model-course/).
 
   This project is a capital budgeting model for a ficticious phone manufacturer. it also has bonus tasks. 
   
   For more details read the PDF with the tasks description.
 
-  - **MADE BY [Thiago Guarino](https://www.linkedin.com/in/thiago-guarino/)**
 
 ## HOW TO RUN THE MODEL
 
