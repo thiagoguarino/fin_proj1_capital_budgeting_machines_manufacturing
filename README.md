@@ -29,6 +29,6 @@
   
   4. install dependencies
 
-  - `python3 -m pip install -r dev-requirements.txt`
+  - `python3 -m pip install -r requirements.txt`
 
-  5. open the jupyter notebook and run it
+  5. open the jupyter notebook, activate the venv kernel and run it.
